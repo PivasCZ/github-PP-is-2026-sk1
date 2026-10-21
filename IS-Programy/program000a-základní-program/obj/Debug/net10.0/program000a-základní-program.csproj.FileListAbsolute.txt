@@ -1,0 +1,15 @@
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\bin\Debug\net10.0\program000a-základní-program.exe
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\bin\Debug\net10.0\program000a-základní-program.deps.json
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\bin\Debug\net10.0\program000a-základní-program.runtimeconfig.json
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\bin\Debug\net10.0\program000a-základní-program.dll
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\bin\Debug\net10.0\program000a-základní-program.pdb
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\obj\Debug\net10.0\program000a-základní-program.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\obj\Debug\net10.0\program000a-základní-program.AssemblyInfoInputs.cache
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\obj\Debug\net10.0\program000a-základní-program.AssemblyInfo.cs
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\obj\Debug\net10.0\program000a-základní-program.csproj.CoreCompileInputs.cache
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\obj\Debug\net10.0\program000a-základní-program.sourcelink.json
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\obj\Debug\net10.0\program000a-základní-program.dll
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\obj\Debug\net10.0\refint\program000a-základní-program.dll
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\obj\Debug\net10.0\program000a-základní-program.pdb
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\obj\Debug\net10.0\program000a-základní-program.genruntimeconfig.cache
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program000a-základní-program\obj\Debug\net10.0\ref\program000a-základní-program.dll
