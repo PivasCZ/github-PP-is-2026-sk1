@@ -9,15 +9,19 @@ while(again.ToLower() == "a")
         Console.WriteLine("**********************************");
         Console.WriteLine("************Výpis řady************");
         Console.WriteLine("**********************************");
-        Console.WriteLine("************Petr Pivoňka**********");
+        Console.WriteLine("***********Petr Pivoňka***********");
         Console.WriteLine("**********************************");
 
-        Console.Write("Zadejte první číslo řady (celé číslo): ");
+    //vstup počáteční hodnoty - špatné řešení
+    Console.Write("Zadej první číslo řady: ");
+        int firts = int.Parse(Console.ReadLine());
+    
+        /*Console.Write("Zadejte první číslo řady (celé číslo): ");
         int firts;
         while(!int.TryParse(Console.ReadLine(), out firts))   {
             Console.Write("Nezadali jsme celé číslo. Zadejte první číslo řady znovu: ");
             
-    }
+    }*/
  Console.Write("Zadejte konečné číslo řady (celé číslo): ");
         int last;
         while(!int.TryParse(Console.ReadLine(), out last))   {
