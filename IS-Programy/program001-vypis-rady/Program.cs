@@ -40,13 +40,35 @@ while(again.ToLower() == "a")
          //rekapitulace zadaných hodnot
         Console.WriteLine();
         Console.WriteLine("=======================");
-        Console.WriteLine($"První číslo: {firts}; První číslo: {last}; První číslo: {step}");
-      /*  Console.WriteLine($"První číslo: {firts}");
+      //  Console.WriteLine($"První číslo: {firts}; První číslo: {last}; První číslo: {step}");
+        Console.WriteLine($"První číslo: {firts}");
         Console.WriteLine($"První číslo: {last}");
-        Console.WriteLine($"První číslo: {step}"); */
+        Console.WriteLine($"První číslo: {step}"); 
         Console.WriteLine("=======================");
         Console.WriteLine(); 
        
+       //výpsi řady
+       Console.WriteLine("Výpis číselné řady");
+       if(firts <= last)
+    {
+        
+        int current = firts;
+        while(current <= last)
+        {
+            Console.WriteLine(current);
+            // Console.Write($"{current}; ");
+            // current = current + step;
+            // stučnější zápis předchozího řádku
+            current += step;
+        }
+    }
+        else
+    {
+
+            Console.WriteLine("První číslo je větší než poslední");
+            Console.WriteLine("Tento program umí pouze vypsat vzestupnou řadu (od nejmenšího k největšímu)!");
+    }
+
        
         //Dotaz směrem k uživateli na opakovaní
         Console.WriteLine();
