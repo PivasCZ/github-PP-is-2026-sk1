@@ -25,7 +25,7 @@ while(again.ToLower() == "a")
             Console.Write("Nezadali jsme celé číslo. Zadejte druhé číslo znovu: ");
             
     }*/
-Console.WriteLine();
+        Console.WriteLine();
         Console.WriteLine("=======================");
         Console.WriteLine($"Zadané číslo: {number}");
         Console.WriteLine("=======================");
@@ -63,9 +63,15 @@ Console.WriteLine();
 
             number = number/10; // celočíselné dělení deseti odstanění poslední číslice
         }
-    
-
     }
+
+    //výpis výsledku
+        Console.WriteLine();
+        Console.WriteLine("=======================");
+        Console.WriteLine($"Součet číslic čísla {numberbc} je: {sum}");
+        Console.WriteLine("=======================");
+        Console.WriteLine(); 
+
         //Dotaz směrem k uživateli na opakovaní
         Console.WriteLine();
         Console.Write("Pro opakovaní programu stiskněte klavesu A. Poté potvrďte klavesou Enter: ");
