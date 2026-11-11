@@ -1,0 +1,15 @@
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\bin\Debug\net10.0\program003b-Trouhelník.exe
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\bin\Debug\net10.0\program003b-Trouhelník.deps.json
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\bin\Debug\net10.0\program003b-Trouhelník.runtimeconfig.json
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\bin\Debug\net10.0\program003b-Trouhelník.dll
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\bin\Debug\net10.0\program003b-Trouhelník.pdb
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\obj\Debug\net10.0\program003b-Trouhelník.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\obj\Debug\net10.0\program003b-Trouhelník.AssemblyInfoInputs.cache
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\obj\Debug\net10.0\program003b-Trouhelník.AssemblyInfo.cs
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\obj\Debug\net10.0\program003b-Trouhelník.csproj.CoreCompileInputs.cache
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\obj\Debug\net10.0\program003b-Trouhelník.sourcelink.json
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\obj\Debug\net10.0\program003b-Trouhelník.dll
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\obj\Debug\net10.0\refint\program003b-Trouhelník.dll
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\obj\Debug\net10.0\program003b-Trouhelník.pdb
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\obj\Debug\net10.0\program003b-Trouhelník.genruntimeconfig.cache
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program003b-Trouhelník\obj\Debug\net10.0\ref\program003b-Trouhelník.dll
