@@ -36,6 +36,7 @@ while(again.ToLower() == "a")
     //příprava pomocných proměnných pro výpočet
     int numberbc = number;
     int sum = 0;    //neutrální hodnota pro sčítání je 0, ale pro součet je to 1
+    //int sum = 1;  //neutrální hornota pro součet
     int digit;      // Proměnná pro ukládání právě zjistěné číslice
        
     // ošetřšní záporných čísel (znaménko nemá vliv na číslici)
@@ -57,7 +58,8 @@ while(again.ToLower() == "a")
         while (number >0)
         {
             digit = number %10;     // Operace Modulo 10 - získáme poslední číslici
-            sum = sum + digit;      // získánou číslici přičteme k sum
+            sum = sum + digit;      // získanou číslici přičteme k sumě
+            //sum = sum * digit;    // získanou číslici sečteme k sumě
 
             Console.WriteLine($"Získaná číslice: {digit}");
 

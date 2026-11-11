@@ -25,10 +25,10 @@ while(again.ToLower() == "a")
             Console.Write("Nezadali jsme celé číslo. Zadejte druhé číslo znovu: ");
             
     }
-Console.WriteLine();
+        Console.WriteLine();
         Console.WriteLine("=======================");
         Console.WriteLine($"První číslo: {XXX}");
-        Console.WriteLine($"První číslo: {YYY}");
+        Console.WriteLine($"Druhé číslo: {YYY}");
         Console.WriteLine("=======================");
         Console.WriteLine(); 
     // zde bude konkréntní algoritmus
