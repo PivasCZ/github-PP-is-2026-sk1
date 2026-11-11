@@ -32,7 +32,7 @@ while(again.ToLower() == "a")
     }
         Console.WriteLine();
         Console.WriteLine("=======================");
-        Console.WriteLine($"Obdelník o rozměrech {width} * {height}");
+        Console.WriteLine($"Obdelník o rozměrech šířka: {width} a výšky: {height}");
         Console.WriteLine("=======================");
         Console.WriteLine(); 
     // zde bude konkréntní algoritmus
@@ -40,15 +40,24 @@ while(again.ToLower() == "a")
     //vnější cyklus počítá řadky
     for (int i = 1; i <= height; i++)
     {
-
+        if(i % 2 == 0){
+            Console.ForegroundColor = ConsoleColor.Blue;
+        }
+            else{
+            Console.ForegroundColor = ConsoleColor.Green;
+        }
+        //vnitřní cyklus, který se postará aby se na každém řádku byl správný pořet *
         for (int j = 1; j <= width; j++)
         {
 
         Console.Write("* ");   
+        // Efekt animace vykreslování
+        System.Threading.Thread.Sleep(System.TimeSpan.FromMilliseconds(100)); 
         
         }
-
+        // writeline který se stará o výšku obdelníku
         Console.WriteLine();
+        Console.ResetColor();
     }
 
 
