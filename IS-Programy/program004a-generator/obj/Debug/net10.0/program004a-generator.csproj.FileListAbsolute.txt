@@ -1,0 +1,15 @@
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\bin\Debug\net10.0\program004a-generator.exe
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\bin\Debug\net10.0\program004a-generator.deps.json
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\bin\Debug\net10.0\program004a-generator.runtimeconfig.json
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\bin\Debug\net10.0\program004a-generator.dll
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\bin\Debug\net10.0\program004a-generator.pdb
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\obj\Debug\net10.0\program004a-generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\obj\Debug\net10.0\program004a-generator.AssemblyInfoInputs.cache
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\obj\Debug\net10.0\program004a-generator.AssemblyInfo.cs
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\obj\Debug\net10.0\program004a-generator.csproj.CoreCompileInputs.cache
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\obj\Debug\net10.0\program004a-generator.sourcelink.json
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\obj\Debug\net10.0\program004a-generator.dll
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\obj\Debug\net10.0\refint\program004a-generator.dll
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\obj\Debug\net10.0\program004a-generator.pdb
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\obj\Debug\net10.0\program004a-generator.genruntimeconfig.cache
+C:\IS\github-PP-is-2026-sk1\IS-Programy\program004a-generator\obj\Debug\net10.0\ref\program004a-generator.dll
