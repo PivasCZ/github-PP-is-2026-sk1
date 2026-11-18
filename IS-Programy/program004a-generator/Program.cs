@@ -48,15 +48,46 @@ while(again.ToLower() == "a")
     Random myRanNumb = new Random();
     //Random myRanNumb = new Random(50);
 
+    int positive = 0;
+    int negativ = 0;
+    int zeros = 0;
+    int even = 0;
+    int odd = 0;
     // Generování náhorných čísel a uložení do pole
     Console.WriteLine("Vygenerovaná pseudonáhorná čísla:");
     for (int i = 0; i < myRanNumbs.Length; i++)
     {
         myRanNumbs[i] = myRanNumb.Next(lowerbound, upperbound + 1);
         Console.Write($"{myRanNumbs[i]}; ");
+        /*if (myRanNumbs[i] < 0)
+            negativ++;
+        if (myRanNumbs[i] > 0)
+            positive++;
+        if (myRanNumbs[i] == 0)
+            zeros++; */
+        //efektivnější způsob
+        if (myRanNumbs[i] < 0)
+            negativ++;
+        else if (myRanNumbs[i] > 0)
+            positive++;
+        else 
+            zeros++;
+        if (myRanNumbs[i]% 2 == 0)
+            even++;
+        else
+            odd++;
 
     }
-
+    Console.WriteLine();
+    Console.WriteLine("=======================");
+    Console.WriteLine($"Počet záporných čísel z generátoru: {negativ}");
+    Console.WriteLine($"Počet kladných čísel z generátoru: {positive}");
+    Console.WriteLine($"Počet nul z generátoru: {zeros}");
+    Console.WriteLine($"Počet sudých čísel z generátoru: {even}");
+    Console.WriteLine($"Počet lichých čísel z generátoru: {odd}");
+    Console.WriteLine("=======================");
+    Console.WriteLine();
+    
 
 
         //Dotaz směrem k uživateli na opakovaní
