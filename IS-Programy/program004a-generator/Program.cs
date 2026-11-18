@@ -40,7 +40,25 @@ while(again.ToLower() == "a")
         Console.WriteLine("=======================");
         Console.WriteLine(); 
     // zde bude konkréntní algoritmus
-       
+
+    // Deklarce a alokace pole v paměri
+    int[] myRanNumbs = new int[n];   
+
+    // inicializace generátoru náhodných čísel
+    Random myRanNumb = new Random();
+    //Random myRanNumb = new Random(50);
+
+    // Generování náhorných čísel a uložení do pole
+    Console.WriteLine("Vygenerovaná pseudonáhorná čísla:");
+    for (int i = 0; i < myRanNumbs.Length; i++)
+    {
+        myRanNumbs[i] = myRanNumb.Next(lowerbound, upperbound + 1);
+        Console.Write($"{myRanNumbs[i]}; ");
+
+    }
+
+
+
         //Dotaz směrem k uživateli na opakovaní
         Console.WriteLine();
         Console.Write("Pro opakovaní programu stiskněte klavesu A. Poté potvrďte klavesou Enter: ");

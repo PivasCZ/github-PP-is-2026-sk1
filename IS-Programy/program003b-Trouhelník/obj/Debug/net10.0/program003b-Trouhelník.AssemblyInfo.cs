@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program003b-Trouhelník")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55bca5f3307eed666ff45cc612c15c0fdd404fd5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c43b64390c367e8d8d01c29d6b1f21fc32c37a70")]
 [assembly: System.Reflection.AssemblyProductAttribute("program003b-Trouhelník")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program003b-Trouhelník")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
